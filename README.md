@@ -1,7 +1,12 @@
 # FEDERAL-BLUEPRINT
 FEDERAL-BLUEPRINT
 
-https://www.whitehouse.gov/ostp/ai-bill-of-rights/
+https://www.whitehouse.gov/ostp/ai-bill-of-rights
+
+## PDF
+
+https://github.com/Municipal-Public-Trust-in-A-i/FEDERAL-BLUEPRINT/blob/5c5fbed197ccf42301a815a747ef093a62b6dca7/Blueprint-for-an-AI-Bill-of-Rights.pdf
+
 
 # US Federal Blue Print
 
